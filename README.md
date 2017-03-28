@@ -6,15 +6,15 @@ Time spent: **X** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+1. Press This CSRF DoS
+  - [x] Summary: 
+    - Vulnerability types:CSRF Dos
+    - Tested in version:4.2.2
+    - Fixed in version: 4.2.13
+  - [x] GIF Walkthrough: 
+  - [x] Steps to recreate: 
+  - [x] Affected source code:
+    - [Link 1](https://github.com/WordPress/WordPress/commit/263831a72d08556bc2f3a328673d95301a152829)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
